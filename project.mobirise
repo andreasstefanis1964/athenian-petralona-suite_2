@@ -1104,7 +1104,7 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center",
-              "color": "#edefeb"
+              "color": "#ffeb69"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
@@ -1502,7 +1502,7 @@
               "max-width": "800px"
             },
             ".mbr-section-title": {
-              "color": "#a6a99c"
+              "color": "#8c9863"
             },
             ".mbr-section-btn": {
               "text-align": "center"
